@@ -1,0 +1,9 @@
+WARNING: This project is in pre alpha stage, you can still use it BUT it uses hard-coded device configuration which may or may not be compatible with yours.
+
+AUTHORS
+------------------------------------------
+Raja Jamwal <linux1@zoho.com>
+
+Description
+------------------------------------------
+JO is a joystick to mouse emulator
